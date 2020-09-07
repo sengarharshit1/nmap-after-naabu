@@ -18,5 +18,7 @@ chmod +x script.sh
 
 
 ## Social Accounts:
+
 Twitter: https://www.twitter.com/sengarharshit1
+
 LinkedIn: https://www.linkedin.com/in/sengarharshit1
