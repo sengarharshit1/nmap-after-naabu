@@ -15,3 +15,8 @@ cd nmap-after-naabu
 chmod +x script.sh
 
 ./script.sh ip_list.txt
+
+
+## Social Accounts:
+Twitter: https://www.twitter.com/sengarharshit1
+LinkedIn: https://www.linkedin.com/in/sengarharshit1
